@@ -73,6 +73,8 @@ Ce projet vise principalement à explorer les concepts de l'architecture microse
 
 2. Assurez-vous d'avoir Docker installé.
 > docker version 
+<br>
+
 > docker compose version
 <br>
 
